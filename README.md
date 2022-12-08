@@ -3,6 +3,7 @@
 This GitHub repository contains:
 
 **Writeup**: 
+*   `LIGN_167_Project_Writeup.pdf`
 
 **Stimuli**:
 
