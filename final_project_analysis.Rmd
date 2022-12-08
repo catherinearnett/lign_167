@@ -1,0 +1,223 @@
+---
+title: "lign_167_final_project_analysis"
+author: "Catherine Arnett"
+date: "2022-11-26"
+output: html_document
+---
+
+```{r}
+library(readr)
+library(tidyverse)
+library(grid)
+library(gridExtra)
+```
+
+# Final GPT-3 Results
+
+```{r}
+exp_1_gpt3_results <- read_csv("C:/Users/cathe/LIGN 167/exp_1_gpt3_results.csv")
+exp_2_gpt3_results <- read_csv("C:/Users/cathe/LIGN 167/exp_2_gpt3_results.csv")
+exp_3_gpt3_results <- read_csv("C:/Users/cathe/LIGN 167/exp_3_gpt3_results.csv")
+```
+## Experiment 1
+
+### Human Results
+
+```{r}
+exp_1_human_results <-read_csv("C:/Users/cathe/LIGN 167/exp_1_results.csv")
+
+#do exclusions
+# exp_1_gpt3_results %>% 
+#   filter(exclude == "y")
+
+exclusions = c("105_Pos", "105_Neg", "106_Pos", "106_Neg")
+
+human_1_qnum_totals = exp_1_human_results %>%
+  filter(!new_q_num %in% exclusions) %>%
+  group_by(new_q_num) %>%
+  summarise(n = n())
+
+human_1_answer_counts = exp_1_human_results %>%
+  filter(!new_q_num %in% exclusions) %>%
+  group_by(new_q_num, answer_type) %>%
+  summarise(n = n())
+
+human_1_analysis = merge(human_1_answer_counts, human_1_qnum_totals, by = "new_q_num")
+
+human_1_analysis_by_item =  human_1_analysis %>%
+  mutate(prop = n.x/n.y) %>%
+  select(new_q_num, answer_type, prop)
+
+human_1_analysis = human_1_analysis %>%
+  mutate(prop = n.x/n.y) %>%
+  select(new_q_num, answer_type, prop) %>%
+  group_by(answer_type) %>%
+  summarise(mean_prop = mean(prop))
+```
+
+### GPT-3 Results
+
+```{r}
+exp_1_gpt3_analysis <- exp_1_gpt3_results %>%
+  mutate(model = ...1) %>%
+  mutate(model = ifelse(grepl('openAIQuery_03', model), "text-davinci-003", 
+                        ifelse(grepl('openAIQuery_02', model), "text-davinci-002", 
+                               ifelse(grepl('openAIQuery_01', model), "text-davinci-001", 
+                                      ifelse(grepl('openAIQuery_00', model), "davinci", NA))))) %>%
+  mutate(response_type = ifelse(response_type == "A", 'UNRED',
+                     ifelse(response_type == "B", 'RED',NA))) %>%
+  group_by(model, response_type) %>%
+  summarise(n = n()) %>%
+  mutate(prop = n/37) %>%
+  select(model, response_type, prop)
+
+#denom = 37
+
+human_1_analysis$model = 'human'
+human_1_analysis <- human_1_analysis %>%
+  select(model, answer_type, mean_prop)
+colnames(human_1_analysis) = c('model', 'response_type', 'prop')
+
+exp_1_gpt3_analysis <- rbind(exp_1_gpt3_analysis, human_1_analysis)
+
+ggplot(data=exp_1_gpt3_analysis, aes(x=response_type , y=prop, fill = response_type)) +
+  geom_bar(stat="identity") +
+  labs(title = "GPT3 Results, Exp. 1")+
+  theme(legend.position="none")+ 
+  #ylim(0, 0.7) +
+  facet_wrap(vars(model))
+  
+
+#gpt_var_results_exp_1
+```
+#need to recode answer with RED/UNRED
+```{r, include = FALSE}
+# exp_2_gpt3_analysis <- exp_2_gpt3_results %>%
+#   mutate(model = ...1) %>%
+#   mutate(model = ifelse(grepl('openAIQuery_03', model), "text-davinci-003", 
+#                         ifelse(grepl('openAIQuery_02', model), "text-davinci-002", 
+#                                ifelse(grepl('openAIQuery_01', model), "text-davinci-001", 
+#                                       ifelse(grepl('openAIQuery_00', model), "davinci", NA))))) %>%
+#   mutate(response_type = ifelse(response_type == "A", 'sing',
+#                      ifelse(response_type == "B", 'pl',NA))) %>%
+#   group_by(model, response_type) %>%
+#   summarise(n = n()) %>%
+#   mutate(prop = n/74) %>%
+#   select(model, response_type, prop) %>%
+#   filter(response_type == 'pl')
+# 
+# exp_2_human_results$model = 'human'
+# 
+# exp_2_human_results <- exp_2_human_results %>%
+#   select(model, q_type, prop_pl)
+# 
+# human_1_analysis$model = 'human'
+# human_1_analysis <- human_1_analysis %>%
+#   select(model, answer_type, mean_prop)
+# colnames(human_1_analysis) = c('model', 'response_type', 'prop')
+# 
+# exp_1_gpt3_analysis <- rbind(exp_1_gpt3_analysis, human_1_analysis)
+```
+
+## Experiment 3
+
+### Human Results
+
+```{r}
+exp3 <- read_csv("C:/Users/cathe/LIGN 167/exp_3_results.csv")
+
+# exp3 <-
+by_item_counts = exp3 %>%
+  group_by(X4,q_type) %>%
+  summarise(n = n())
+
+exp3_analysis <- exp3 %>%
+  group_by(X4, X6, q_type) %>%
+  summarise(n = n())
+
+exp3_analysis <- merge(exp3_analysis,by_item_counts, by = c('X4', 'q_type'))
+
+exp3_analysis <- exp3_analysis %>%
+  mutate(prop = n.x/n.y) %>%
+  select(X4, X6,q_type, prop) %>%
+  mutate(X6 = ifelse(X6 == "Amore", 'UNRED',
+                     ifelse(X6 == "Bmore", 'RED',NA))) %>%
+  dplyr::rename(answer_type = X6) 
+
+exp_3_duration <- exp3_analysis %>%
+  filter(q_type == "duration") %>%
+  group_by(answer_type) %>%
+  summarise(mean_prop = mean(prop))
+
+exp_3_instances <- exp3_analysis %>%
+  filter(q_type == "instances") %>%
+  group_by(answer_type) %>%
+  summarise(mean_prop = mean(prop))
+
+```
+
+
+### GPT-3
+
+```{r}
+exp_3_gpt3_results_dur <- exp_3_gpt3_results %>%
+  select(c(...1, duration_response_type)) %>%
+  mutate(model = ...1) %>%
+  mutate(model = ifelse(grepl('openAIQuery_03', model), "text-davinci-003", 
+                        ifelse(grepl('openAIQuery_02', model), "text-davinci-002", 
+                               ifelse(grepl('openAIQuery_01', model), "text-davinci-001", 
+                                      ifelse(grepl('openAIQuery_00', model), "davinci", NA))))) %>%
+  mutate(response_type = ifelse(duration_response_type == "A", 'UNRED',
+                     ifelse(duration_response_type == "B", 'RED',NA))) %>%
+  group_by(model, response_type) %>%
+  summarise(n = n()) %>%
+  mutate(prop = n/39) %>%
+  select(model, response_type, prop)
+
+exp_3_gpt3_results_inst <- exp_3_gpt3_results %>%
+  select(c(...1, instances_response_type)) %>%
+  mutate(model = ...1) %>%
+  mutate(model = ifelse(grepl('openAIQuery_03', model), "text-davinci-003", 
+                        ifelse(grepl('openAIQuery_02', model), "text-davinci-002", 
+                               ifelse(grepl('openAIQuery_01', model), "text-davinci-001", 
+                                      ifelse(grepl('openAIQuery_00', model), "davinci", NA))))) %>%
+  mutate(response_type = ifelse(instances_response_type == "A", 'UNRED',
+                     ifelse(instances_response_type == "B", 'RED',NA))) %>%
+  group_by(model, response_type) %>%
+  summarise(n = n()) %>%
+  mutate(prop = n/39) %>%
+  select(model, response_type, prop)
+
+
+
+exp_3_duration$model = 'human'
+exp_3_instances$model = 'human'
+
+human_3_analysis_dur <- exp_3_duration %>%
+  select(model, answer_type, mean_prop)
+human_3_analysis_inst<- exp_3_instances%>%
+  select(model, answer_type, mean_prop)
+
+colnames(human_3_analysis_dur) <- c('model', 'response_type', 'prop')
+colnames(human_3_analysis_inst) <- c('model', 'response_type', 'prop')
+
+exp_3_gpt3_results_dur <- rbind(exp_3_gpt3_results_dur, human_3_analysis_dur)
+exp_3_gpt3_results_inst <- rbind(exp_3_gpt3_results_inst, human_3_analysis_inst)
+
+ggplot(data=exp_3_gpt3_results_dur, aes(x=response_type , y=prop, fill = response_type)) +
+  geom_bar(stat="identity") +
+  labs(title = "GPT3 Results (Duration), Exp. 3")+
+  theme(legend.position="none")+ 
+  #ylim(0, 0.7) +
+  facet_wrap(vars(model))
+
+ggplot(data=exp_3_gpt3_results_inst, aes(x=response_type , y=prop, fill = response_type)) +
+  geom_bar(stat="identity") +
+  labs(title = "GPT3 Results (Instances), Exp. 3")+
+  theme(legend.position="none")+ 
+  #ylim(0, 0.7) +
+  facet_wrap(vars(model))
+
+```
+
+
