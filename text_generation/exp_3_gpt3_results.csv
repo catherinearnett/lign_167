@@ -1,0 +1,930 @@
+,model,option_A,duration_response_type,duration_response,instances_response_type,instances_response
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了飞,B, B:蜻蜓在院子里飞了飞
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了飞
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A, A: 小芳在哈尔滨的雪地里滑了,B, B: 小李在哈尔滨的雪地里滑了滑
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A, A: 小芳在哈尔滨的雪地里滑了,B, B: 小李在哈尔滨的雪地里滑了滑
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A, A:小芳在哈尔滨的雪地里滑了,B, B: 小李在哈尔滨的雪地里滑了滑
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A, A:今晚玛丽去庙会逛了,B, 取决于他们分别逛了多久。
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A,A:今晚玛丽去庙会逛了,B, 这取决于他们逛了多长时间。
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A, A:今晚玛丽去庙会逛了,A, A:今晚玛丽去庙会逛了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A, A: 小明在体育课跳了,A, A:小明在体育课跳了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A, A: 小明在体育课跳了,A, A:小明在体育课跳了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A, A:小明在体育课跳了,A, A: 小明在体育课跳了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B, B: 有只虫在树叶上爬了,A, A: 有只蚕在树叶上爬了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,A, A: 有只蚕在树叶上爬了,A, A:有只蚕在树叶上爬了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A::有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,A, A: 有只蚕在树叶上爬了,A, A: 有只蚕在树叶上爬了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A, A: 小王在海里奋力向前游了,B, B:小赵在海里奋力向前游了游
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A, A: 小王在海里奋力向前游了,B, B: 小赵在海里奋力向前游了游
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A, A:小王在海里奋力向前游了,A, A: 小王在海里奋力向前游了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小明的身影晃了,B:小红的身影晃了晃,A, A: 小明的身影晃了,B, B: 小红的身影晃了晃
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小明的身影晃了,B:小红的身影晃了晃,A, A:小明的身影晃了,B, B:小红的身影晃了晃
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小明的身影晃了,B:小红的身影晃了晃,B, B: 小红的身影晃了晃,B, 无法回答，因为没有提供具体的晃的次数数据。
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:张三下午在公园走了,B:李四下午在公园走了走,A, A: 张三下午在公园走了,A, A: 张三下午在公园走了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:张三下午在公园走了,B:李四下午在公园走了走,A, A: 张三下午在公园走了,A, A: 张三下午在公园走了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:张三下午在公园走了,B:李四下午在公园走了走,A, A: 张三下午在公园走了,A, A:张三下午在公园走了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,B, B: 枯叶在小河水面上漂了漂,B, B: 枯叶在小河水面上漂了漂
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,B, B: 枯叶在小河水面上漂了,B, B: 枯叶在小河水面上漂了漂
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,B, B: 枯叶在小河水面上漂了,B, B: 枯叶在小河水面上漂了漂
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小丽在操场跑了,B:小红在操场跑了跑,A, A: 小丽在操场跑了,A, A:小丽在操场跑了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小丽在操场跑了,B:小红在操场跑了跑,A, A: 小丽在操场跑了,A, A: 小丽在操场跑了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:小丽在操场跑了,B:小红在操场跑了跑,A, A: 小丽在操场跑了,A, 由于给出的信息不足，无法回答此问题。
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B:李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A, A: 蜜蜂绕着花朵转了,B, B: 蝴蝶绕着花朵转了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,B, B: 蝴蝶绕着花朵转了转,B,B:蝴蝶绕着花朵转了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,B, B: 蝴蝶绕着花朵转了转,B, B: 蝴蝶绕着花朵转了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B, B:柳絮在夏日里飘了飘,B, B: 柳絮在夏日里飘了
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B, B: 柳絮在夏日里飘了飘,B, B: 柳絮在夏日里飘了飘
+<function openAIQuery_03 at 0x7fc96f9edd80>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,A, A: 雪花在冬日里飘了,A, A: 雪花在冬日里飘了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B:蜻蜓在院子里飞了飞,B, B:蜻蜓在院子里飞了飞
+<function openAIQuery_02 at 0x7fca0232bd90>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B,B:蜻蜓在院子里飞了,A,A:蝴蝶在院子里飞了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B:蜻蜓在院子里飞了飞,A, A蜻蜓在院子里飞了飞
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A, A:小芳在哈尔滨的雪地里滑了,B, B: 小李在哈尔滨的雪地里滑了滑
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A, A: 小芳在哈尔滨的雪地里滑了,B, B:小李在哈尔滨的雪地里滑了滑
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,B, B: 小李在哈尔滨的雪地里滑了滑,B, B: 小李在哈尔滨的雪地里滑了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A, A:今晚玛丽去庙会逛了,B, B:今晚凯特去庙会逛了逛
+<function openAIQuery_02 at 0x7fca0232bd90>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A, A: 今晚玛丽去庙会逛了,A," A: 今晚玛丽去庙会逛了逛  
+A或B的颜色多? 
+A: 背景色: 黑色, 红色, 灰色
+B: 背景色: 黑色, 红色
+回答: A: 背景色: 黑色, 红色, 灰色"
+<function openAIQuery_02 at 0x7fca0232bd90>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,B, B:今晚凯特去庙会逛了,A, A:今晚玛丽去庙会逛了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小明在体育课跳了,B:小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳,B, B:小亮在体育课跳了跳
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A,"
+
+A:小明在体育课跳了",B,B
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小明在体育课跳了,B:小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳
+<function openAIQuery_02 at 0x7fca0232bd90>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B, B:有只虫在树叶上爬了,B, B:有只虫在树叶上爬了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B, B: 有只虫在树叶上爬了,B, B:有只虫在树叶上爬了
+<function openAIQuery_02 at 0x7fca0232bd90>,A::有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,A, A::有只蚕在树叶上爬了,A,A:有只蚕在树叶上爬了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A,A:小王在海里奋力向前游了,A, A 游的次数多
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A, A: 小王在海里奋力向前游了,A,"
+
+A:小王在海里奋力向前游了"
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,B, B:小赵在海里奋力向前游了游,A, A:小王在海里奋力向前游了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小明的身影晃了,B:小红的身影晃了晃,A,A: 小明的身影晃了,B,B:小红的身影晃了晃
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小明的身影晃了,B:小红的身影晃了晃,A, A: 小明的身影晃了,B,B:小红的身影晃了晃
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小明的身影晃了,B:小红的身影晃了晃,B, B: 小红的身影晃了晃,A, A: 小明的身影晃了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:张三下午在公园走了,B:李四下午在公园走了走,A, A:张三下午在公园走了,A," B:李四下午在公园走了走  
+A或B走的路程多? 
+A:张三下午在公园走了10公里
+B:李四下午在公园走了走了6公里
+回答: A:张三下午在公园走了10公里"
+<function openAIQuery_02 at 0x7fca0232bd90>,A:张三下午在公园走了,B:李四下午在公园走了走,A, A:张三下午在公园走了,B, B: 李四下午在公园走了走
+<function openAIQuery_02 at 0x7fca0232bd90>,A:张三下午在公园走了,B:李四下午在公园走了走,B,B:李四下午在公园走了,B, B:李四下午在公园走了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,A, A: 红叶在小河水面上漂了,B, B: 枯叶在小河水面上漂了漂
+<function openAIQuery_02 at 0x7fca0232bd90>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,A, A: 红叶在小河水面上漂了,A, A: 红叶在小河水面上漂了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,A, A: 红叶在小河水面上漂了,A, A:红叶在小河水面上漂了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小丽在操场跑了,B:小红在操场跑了跑,B, B: 小红在操场跑了,A, A:小丽在操场跑了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小丽在操场跑了,B:小红在操场跑了跑,B, B: 小红在操场跑了跑,A, A: 小丽在操场跑了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:小丽在操场跑了,B:小红在操场跑了跑,B,"
+
+B: 小红在操场跑了",B, B:小红在操场跑了跑
+<function openAIQuery_02 at 0x7fca0232bd90>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B：李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_02 at 0x7fca0232bd90>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B,B:李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_02 at 0x7fca0232bd90>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_02 at 0x7fca0232bd90>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A,A:蜜蜂绕着花朵转了,A, A:蜜蜂绕着花朵转了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A, A:蜜蜂绕着花朵转了,B, B: 蝴蝶绕着花朵转了转
+<function openAIQuery_02 at 0x7fca0232bd90>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A, A:蜜蜂绕着花朵转了,A, A:蜜蜂绕着花朵转了
+<function openAIQuery_02 at 0x7fca0232bd90>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B, B:柳絮在夏日里飘了飘,B, B: 柳絮在夏日里飘了飘
+<function openAIQuery_02 at 0x7fca0232bd90>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,A, A:雪花在冬日里飘了,B, B: 柳絮在夏日里飘了飘
+<function openAIQuery_02 at 0x7fca0232bd90>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,A, A:雪花在冬日里飘了,B, B:柳絮在夏日里飘了飘
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,A, A: 蝴蝶在院子里飞了,B,B:蜻蜓在院子里飞了飞
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了飞,B, B:蜻蜓在院子里飞了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,B, B: 蜻蜓在院子里飞了,B, B:蜻蜓在院子里飞了飞
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,B, B: 小李在哈尔滨的雪地里滑了滑,B," B: 小李在哈尔滨的雪地里滑了
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,B, B: 小李在哈尔滨的雪地里滑了,A," A:小芳在哈尔滨的雪地里滑了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,B, B: 小李在哈尔滨的雪地里滑了,A," A:小芳在哈尔滨的雪地里滑了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,B, B:今晚凯特去庙会逛了,A," A: 今晚玛丽去庙会逛了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,B, B:今晚凯特去庙会逛了逛,B, B:今晚凯特去庙会逛了逛
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A, A:今晚玛丽去庙会逛了,B, B:今晚凯特去庙会逛了逛
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小明在体育课跳了,B:小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小明在体育课跳了,B:小亮在体育课跳了跳,B, B:小亮在体育课跳了跳,B, B:小亮在体育课跳了跳
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小明在体育课跳了,B:小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳,B, B: 小亮在体育课跳了跳
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B, B: 有只虫在树叶上爬了,B, B:有只虫在树叶上爬了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B, B: 有只虫在树叶上爬了,A," A: 有只蚕在树叶上爬了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A::有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B, B: 有只虫在树叶上爬了,B, B: 有只虫在树叶上爬了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,B, B:小赵在海里奋力向前游了,B, B:小赵在海里奋力向前游了游
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A,"
+
+A: 小王在海里奋力向前游了 
+B: 小赵在海里奋力向前游了游",A," A:小王在海里奋力向前游了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,B, B:小赵在海里奋力向前游了,B, B: 小赵在海里奋力向前游了游
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小明的身影晃了,B:小红的身影晃了晃,A," A:小明的身影晃了 
+",A," A:小明的身影晃了 
+A挡住了B的视线
+
+A:挡住了B的视线"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小明的身影晃了,B:小红的身影晃了晃,A," A:小明的身影晃了
+",A," A:小明的身影晃了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小明的身影晃了,B:小红的身影晃了晃,B, B:小红的身影晃了,A," A:小明的身影晃了 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:张三下午在公园走了,B:李四下午在公园走了走,B,B:李四下午在公园走了,B," B:李四下午在公园走了
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:张三下午在公园走了,B:李四下午在公园走了走,B, B:李四下午在公园走了,B, B:李四下午在公园走了走
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:张三下午在公园走了,B:李四下午在公园走了走,B, B:李四下午在公园走了,B, B:李四下午在公园走了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,B, B: 枯叶在小河水面上漂了,B, B: 枯叶在小河水面上漂了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,B, B:枯叶在小河水面上漂了,B,B: 枯叶在小河水面上漂了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,A,A: 红叶在小河水面上漂了,B,B: 枯叶在小河水面上漂了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小丽在操场跑了,B:小红在操场跑了跑,B, B: 刷牙,B," B: 刷牙 
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小丽在操场跑了,B:小红在操场跑了跑,B, B: 小红在操场跑了跑,A," A:小丽在操场跑了 
+B:小红在操场跑了跑"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:小丽在操场跑了,B:小红在操场跑了跑,A," A:小丽在操场跑了 
+",A," A:小丽在操场跑了 
+B:小红在操场跑了跑"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜,B, B: 李大爷傍晚出门溜了溜
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B:李大爷傍晚出门溜了溜,B, B:李大爷傍晚出门溜了溜
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,B, B:李大爷傍晚出门溜了溜,B, B:李大爷傍晚出门溜了溜
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,B, B: 蝴蝶绕着花朵转了,A,A:蜜蜂绕着花朵转了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,B, B: 蝴蝶绕着花朵转了,B, B:蝴蝶绕着花朵转了转
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,B, B: 蝴蝶绕着花朵转了,B, B: 蝴蝶绕着花朵转了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B, B:柳絮在夏日里飘了飘,A," A:雪花在冬日里飘了
+"
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B,B:柳絮在夏日里飘了,B, B: 柳絮在夏日里飘了
+<function openAIQuery_01 at 0x7fc96fa70e50>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B, B:柳絮在夏日里飘了飘,B, B: 柳絮在夏日里飘了飘
+<function openAIQuery_00 at 0x7fc96fa71240>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,A," A:蝴蝶在院子里飞了
+B会帮助朋友平时做什么?
+A: 打杂 
+B:刷碗 
+回答: B :刷碗 
+朋友崴脚时你会怎么帮他治疗?
+
+A: 轻轻拍拍 
+B: 拿空拖鞋给他 
+回答: B: 拿空拖鞋给他
+B的妈妈会帮她做什么?
+A:搞定",A," B:蜻蜓在院里飞了飞 
+A或B的顺序多?
+A: 马拉松 足球 
+B: 所有的顺序 
+回答: B: 所有的顺序 
+A或B的晚上占的比例多?
+A: 12:30 大音量的播放音乐 90后的电台 气氛很热烈
+B: 音乐唱片店里的一首歌 
+回答: A: 12:30 大音量的"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,A," A:蝴蝶在院子里飞了飞 
+A和B有什么 
+A: 七个月爬出来
+B: 一千八百万转世了。 
+回答:A: 七个月爬出来B: 一千八百万转世了。 
+A和B找不到 
+A: 你有钱没有?
+答:A: 你有钱没有?
+B:我有钱,我有钱,我有钱,我有",A," B:蜻蜓在院子里飞了飞
+如果A是嘴巴,长的不高于嘴巴,那么A的体积是多少? 
+A:一个普通的标准塑料水果罐
+B:一个乒乓球
+回答: A:一个普通的标准塑料水果罐
+如果A是一个千人的人群,那么他可以打进1M果汁? 
+A:一个月自"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:蝴蝶在院子里飞了,B:蜻蜓在院子里飞了飞,A,"A蝴蝶在院子里飞了飞 
+A或B乘坐摩天轮时经过多个城市?
+A: 美丽的风景 
+B: 美丽的风景
+回答:B 美丽的风景 
+A或B旅行时所逛的商店?
+A: 迪斯尼乐园 
+B: 迪斯尼乐园
+回答:A 迪斯尼乐园 
+A或B损坏时间多? 
+A: 刷",A,"A:蝴蝶在院子里飞了飞 
+A或B把钱花在什么地方? 
+A: 花在了毛毛虫的头上
+B:把钱花在了吃到肚子里
+回答:A: 花在了毛毛虫的头上 
+A或B的数量多? 
+A: 想要的数量太多
+B:许多的数量太多
+回答:A:想要的数量太多 
+A或B运"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A," B: 小李在哈尔滨的雪地里滑了滑 
+A或B把电车车票放在哪里？ 
+A:在口袋里
+B:在洞里
+回答: A: 在口袋里 
+A:初中生物试题答案
+B:初中物理试题答案
+C:初中英语试题答案
+D:初中数学试题答案
+
+A:钱包里的",A,"A:小芳在哈尔滨的雪地里滑了
+B:小李在哈尔滨的雪地里滑了滑
+A与B的谁次数多? 
+A:张维迎曾说过，她父亲梁文灿曾多次说：“让我见到你们的儿子我就放了他，可是他在给我见到儿子时，还要我放他"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,B,"B:小李在哈尔滨的雪地里滑了滑 
+最后一个问题(小明跑楼梯时)
+P: 完整的楼梯是滑动桥(种子) 
+Q: 完整的楼梯是滑动桥(动物科)
+R: 完整的楼梯是滑动桥(动物科)
+S: 完整的楼梯是滑动桥(动物科)
+T: 完整",A," B:小李在哈尔滨的雪地里滑了滑 
+小C会弹钢琴吗? 
+A:会
+B:不会
+回答:A:会 
+小C会唱歌吗? 
+A:会
+B:不会
+回答:B:不会 
+哈尔滨的温度多少度?
+A:零度
+B:零度
+回答:A:零度 
+小D常常玩手机吗?
+A:常常玩
+B:不常玩
+回答"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小芳在哈尔滨的雪地里滑了,B:小李在哈尔滨的雪地里滑了滑,A," A:小芳在哈尔滨的雪地里滑了
+B: 小李在哈尔滨的雪地里滑了滑 
+A或B做的时间多? 
+A: 小芳在哈尔滨的雪地里做飞碟了
+B: 小李在哈尔滨的雪地里做飞碟了
+回答: A: 小芳在哈尔滨的雪地里做飞碟了
+那么",A,"A:小芳在哈尔滨的雪地里滑了 
+谁的生肖跟谁的相冲?
+A:周洋跟邓超
+B:许绍雄跟小威
+回答:B:许绍雄跟小威
+A或B的共同词是?
+A:小S或小威
+B:小S或王小东
+回答:A:小S或小威
+谁是A:小S或小威或王小东接班人?"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A," A:今晚玛丽去庙会逛了 
+B来历答案: 美国,法国,加拿大,澳大利亚,中国,英国,日本,新加坡,俄罗斯,澳大利亚,美国,加拿大,日本,俄罗斯,英国,澳大利亚,中国,新加坡,法国,美国,英国,新加坡,日本,俄罗斯,澳大利",A,"A:今晚玛丽去庙会逛了
+A或B的小名怎么来的? 
+A:玛丽 
+B:凯特
+回答:A:玛丽
+A或B听着音乐做了些什么? 
+A:洗澡
+B:睡觉
+回答:A:洗澡
+A或B穿着西装出去了? 
+A:安妮去庙会
+B:苏珊去庙会
+回答:B:苏珊去庙"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A," B:今晚凯特去庙会逛了逛  
+A或B有100根棒棒糖,来争个谁吃多 
+A: 吃糖咯～糖咯～糖咯～
+B: 吃糖咯～糖咯～糖咯～
+回答: B: 吃糖咯～糖咯～糖咯～  
+A或B有50条蠕虫,来争个谁爬的快 
+A",A,"A:今晚玛丽去庙会逛了 选A或B答案:A:今晚玛丽去庙会逛了 选A或B答案:A:今晚玛丽去庙会逛了
+B:今晚凯特去庙会逛了逛
+
+一个人去河边采摘萝卜，每次采一瓣，一直采到河对岸才停下来。他现在的位置是在"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:今晚玛丽去庙会逛了,B:今晚凯特去庙会逛了逛,A,"A:今晚玛丽去庙会逛了 
+变异: 变异: 玛丽 信仰 魔术 但 实在 很 信仰 魔术 但 实在 很 吗? 
+A:真的吗?
+B:看来没看错啊
+变异: 所以 你知道我
+A: 听说过 不过没见过你
+B: 所以 你知道我
+A: 没见过你 所以 你知",A," A:今晚玛丽去庙会逛了  
+A或B更早睡觉? 
+A: 有一天，我醒来后发现我长出了一对鸭舌帽
+B:有一天，我醒来后发现我长出了一对鸟嘴猪脸
+回答: A: 有一天，我醒来后发现我长出了一对鸭舌帽  
+A或B更早起床? 
+A:"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A," B:小亮在体育课跳了 跳 了
+A或B是小明(A)的上课作业或者是小亮(B)的上课作业都没做? 
+A:小明在体育课上课不做作业
+B:小亮在体育课上课不做作业
+回答: A:小明在体育课上课不做作业 
+A或B在一起运动的时候没有被认识?
+A:小明",A," B:小亮在体育课跳了两次
+A或B被打破的次数多? 
+A:小明的指甲被打破了
+B:小亮的指甲被打破了
+回答: B:小亮的指甲被打破了两次</span></p>
+<p style=""text-indent:-.8pt;mso-list:l0 level1 lfo1;tab-stops:list .75in; mso-layout-grid-align:none;text-autospace:none""><span style=""font-family:宋体;color"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A," A:小明在体育课跳了 
+A或B的时间多?
+A:小明的跳的
+B:小亮的跳的
+回答: A:小明的跳的 
+A或B的时间多? 
+A:小明的跳的时间
+B:小亮的跳的时间
+回答: A:小明的跳的时间 
+A或B的时间多? 
+A:在运动的时候的时间
+B:在游泳的时候的时间
+",A," A: 小明在体育课跳了 
+A或B是谁? 
+A:小明
+B:小亮
+回答: A: 小明
+B:小亮
+B爱谁? 
+A:黄雯
+B:小明
+回答: B:小明
+A对B说过哪句话? 
+A:你帮我洗衣服 还是帮我洗脚?
+B:你洗衣服 存心让我给你洗 
+回答: A:你帮我"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小明在体育课跳了,B:小亮在体育课跳了跳,A," A:小明在体育课跳了  
+利用代码检测跳跃数，结果如下：
+
+原文链接:http://www.cnblogs.com/anshenxueyuan/p/5540966.html",A,"A:小明在体育课跳了  
+A可能是: 小明 王小明 小明爸爸 小明哥哥
+B可能是: 小亮 小亮爸爸 小亮哥哥 小亮大哥哥 小亮大哥哥子女
+回答: B:小亮 小亮爸爸 小亮哥哥 小亮大哥哥 小亮大哥哥子女 主题: 不要跑"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,A,"A:有只蚕在树叶上爬了 
+B:有只虫在树叶上爬了爬 
+In the《Yi Ching—Book of Changes》, the total number of its words is …. 
+A: about 13000 words
+B: about 3000 words
+回答:A: about 13000 words 
+A或B比贾多的更多? 
+A: 跑足了 
+B: 打了 
+回答: A: 跑足了  
+A或B比华多的多? 
+A: 华林 
+B: 窗帘 
+回",A," A: 有只蚕在树叶上爬了  
+A或B爬的次数多? 
+A: 无论A或B都没有爬过 
+B: 无论A或B都没有爬过 
+像A就像B吗?
+B:不是
+回答: B:不是  
+A与B是否有关联?
+A: 有
+B:有
+回答: A: 有  
+B与A是否有关联?
+A: 无论A或B都没有"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,A,"B:有只虫在树叶上爬了爬  
+A做的时间多? 
+A:一个月
+B:一个小时
+回答:A:一个月  
+A或B吃的时间多? 
+A:一个月份
+B:一个年份
+回答:A:一个月  
+A做的和B爬的时间相差多少? 
+(A:1000天 天哪!)
+(B:1000小时 小时哪!)
+回答:A:1000天 
+A和B",A," B:有只虫在树叶上爬了爬  
+A或B吃了更多的水果? 
+A: 死了一朵花（一枝） 
+B: 死了一些花（一些）
+回答: A: 死了一朵花（一枝） 
+B在A吃饭的时间更长? 
+A:为了吃饭，去花园里找花花实实的东西。花果山知道"
+<function openAIQuery_00 at 0x7fc96fa71240>,A::有只蚕在树叶上爬了,B:有只虫在树叶上爬了爬,B," B:有只虫在树叶上爬了
+
+一个男生在一次庆祝会上喝了大量的酒后,
+然后一口气睡了十几个小时,在第二天早上起床时,
+先生发现自己的钱包不见了,他便四处找找自己的钱包,
+但是一无所获。当他找到一位已经当了几个月的新同",A,"A::有只蚕在树叶上爬了 
+A或B更聪明? 
+A:同学 
+B:老师
+回答:A:同学  
+A或B的思考更深? 
+A:啃老爹的肉 
+B:啃老妈的肉
+回答:A:啃老爹的肉 
+A或B的智商高? 
+A: 小学生 
+B: 画漫画的小学生
+回答:A: 小学生 
+A或B适"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A,"B:小赵在海里奋力向前游了游 
+A或B会做什么? 
+A: 破坏别人生活 
+B: 加班
+回答:B: 加班 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析: 分析:",A," A:小王在海里奋力向前游了  
+A或B戴的头巾学内容? 
+A:小王在海里奋力向前游了
+B:小赵在海里奋力向前游了游 
+回答: A:小王在海里奋力向前游了  
+A或B一边闭眼一边记硬币的数目? 
+A:小王在海里奋力向前游了
+B:小赵"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A,"B:小赵在海里奋力向前游了游 
+A或B的时间多? 
+A:一张大纸板 
+B: 一张小纸板
+回答:B:一张小纸板 
+
+大华国际
+
+大华国际( 上海)
+管理有限公司
+http://www.dlih.com
+
+大华国际(北京)管理有限公司
+http://www.dlbj.com
+
+大华国际(苏州)投",A," A:小王在海里奋力向前游了 
+A与B的比例是多少? 
+A:小王看了二十几部电影
+B:小赵看了三十几部电影
+回答: A:小王看了二十几部电影 
+A与B的比例是多少? 
+A:小赵在短短的十几天里给了几百个“抱歉”
+B:小王在短短的十几天"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小王在海里奋力向前游了,B:小赵在海里奋力向前游了游,A," A: 小王在海里奋力向前游了  
+A或B去游的时间多? 
+A:小王在海里奋力向前游了
+B:小赵在海里奋力向前游了游
+回答: A: 小王在海里奋力向前游了  
+A或B是否在里边奋力向前游了? 
+A:海里奋力向前游了
+B:空中奋力向前",A," B:小赵在海里奋力向前游了游 
+A或B去的地方多? 
+A:小偷在街上窃贼如云
+B:小艾在街上窃贼如云
+回答: B:小艾在街上窃贼如云 
+A或B做的事多? 
+A:小华和小陈一起做家务
+B:小华和小陈一起做家务
+回答: A:小华"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小明的身影晃了,B:小红的身影晃了晃,A,"B:小红的身影晃了晃
+A或B喝醉了? 
+A:麦同学喝醉了
+B:黄同学喝醉了
+回答:B:黄同学喝醉了
+A或B抢的时间多? 
+A:欲抢先抢的
+B:接吻的
+回答:A:欲抢先抢的
+
+
+
+答案：
+A: 捉蛇 B:干洗澡
+A: 给猴打电",A,"A:小明的身影晃了 
+A或B支持哪一方? 
+A:A
+B:B
+回答: A:A
+A或B能在哪做憧憬的事呢?
+B:刷牙
+回答: A或B能在哪做憧憬的事呢?
+A:跑马拉松
+
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小明的身影晃了,B:小红的身影晃了晃,A," A:小明的身影晃了  
+A或B见过老板? 
+A:小明见过
+B:小红见过
+回答: A:小明见过  
+A或B晃了一晃? 
+A:小明晃了一晩
+B:小红晃了一晩
+回答: A:小明晃了一晩  
+A或B定的时间多? 
+A:她定的时间多
+B:他定的时间多
+回答",A,"A:小明的身影晃了
+
+B:小红的身影晃了晃
+
+〈My pair of shoes 〉
+
+〈My pair of shoes〉
+
+It is a pair of shoes.
+
+It is a blue pair of shoes.
+
+It is a pair of shoes that is blue.
+
+It is shoes, it is blue ,It is a pair of shoes.
+
+It is a pair of shoes that is blue.
+
+〈My pair of shoes 〉
+
+The shoes are red.
+
+They are my shoes.
+
+They are red shoes.
+
+They are my red shoes.
+
+
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小明的身影晃了,B:小红的身影晃了晃,A," B:小红的身影晃了晃 
+A或B晃的时间多? 
+A:小明的身影晃了晃
+B:小红的身影晃了晃
+回答: A:小明的身影晃了晃 
+A或B晃的时间多? 
+A:太阳晃了晃
+B:小红的身影晃了晃
+回答: B:小红的身影晃了晃 
+A或B晃",A," B: 小红的身影晃了晃 
+A或B行的路程长? 
+A:手机掉进水里行了45厘米
+B:手机掉进水里行了45米
+回答: A:手机掉进水里行了45厘米 
+A或B行的速度快? 
+A:我们把小明的脚都扭了
+B:我们把小红的脚都扭了
+回答: B:我"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:张三下午在公园走了,B:李四下午在公园走了走,A," A: 过半，B: 几乎全走完，
+
+ 
+
+学校：西单大悦城 话画初中组
+
+比赛题目：比赛形式：Keywords
+
+比赛题目：比赛形式：Painting
+
+比赛题目：比赛形式：Painting
+
+比赛题目：比赛形式：painting
+
+比赛题目",A," A:张三下午在公园走了一圈
+B:李四下午在公园走了一圈
+A和B走了哪个长?
+
+ 
+A:走路 
+B:走跑 
+回答: A:张三走路走了一圈
+B:李四走跑走了一圈
+A和B走了几个赛道? 
+A:公园赛道 
+B:城市赛道 
+回答: A:张三走"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:张三下午在公园走了,B:李四下午在公园走了走,B," B:李四下午在公园走了走 
+a或b:走多远?
+a:走了3.5公里
+b:走了3.3公里
+回答: b:走了3.3公里 
+a或b:跑多远?
+a:跑了4.4千米
+b:跑了4.5千米
+回答: a:跑了4.4千米
+
+
+a或者b:
+a:成绩好
+b:成绩差
+回答: b:成绩差",A," A：张三下午在公园走了
+B:李四下午在公园走了走 
+A或B看的书多? 
+A:秋菊手册 
+B:清华大学的标识 
+回答：A：秋菊手册 
+A或B抽的烟多? 
+A:抽了6根 
+B:抽了7根 
+回答: B：抽了7根 
+B: 堵车 
+A或B跟人打交道"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:张三下午在公园走了,B:李四下午在公园走了走,A," B:李四下午在公园走了走 
+A或B走的时间多? 
+A：章五下午在公园走了走
+B：李六下午在公园走了走
+回答: A:章五下午在公园走了走 
+A或B走的时间多? 
+A：章五下午在公园走了走
+B：李六下午在公园走了走
+回答",A,"A:张三下午在公园走了一圈 
+A或B少吃几块饭? 
+A: 小明吃了8块热狗
+B:小强买了8个馒头
+回答:A: 小明吃了 8块热狗 
+A或B走的次数多? 
+A:沈阳走了回来
+B:沈安安很自觉地走了回来
+回答:A:沈阳走了回来 
+A"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,B,"B: 漂的时间多
+
+There are two ways to get to the International Finance Centre: by an underground tunnel or by a pedestrian bridge.
+
+We may feel that we are in a dead end, but we can always see a way out.
+
+He began to worry when his washing machine broke down.
+
+My parents do not object to the way I dress.
+
+People who are interested in collecting stamps usually have a large collection of stamps.
+
+You are more likely to succeed if you try again.
+
+Which of the two ways to get to the International Finance Centre is shorter?
+
+Do you think you're a good public speaker?
+
+No one knows what caused the accident.
+
+The apartment is in need of a good cleaning.
+
+It's hard to stay mad at you.
+
+The students were glad to be let out of school early.
+
+He will spend the next two years writing",A," B:枯叶在小河水面上漂了漂 是和枯叶一起漂了 比红叶漂了 多次 所以选B
+
+A or B, which is taller? 
+A: A tall cliff 
+B:A big tree 
+回答:A:A tall cliff 
+A or B, which is smaller? 
+A:A house 
+B:A dog 
+回答:B:A dog 
+A or B, which is more interesting? 
+A:Playing chess 
+B:Playing basketball
+
+回答:A:Playing chess 
+A or B, which is older? 
+A:A great grandma 
+B:A great"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,A,"A:红叶在小河水面上漂了 
+A或B将来是什么?
+A:柳条漂在小河水面上 成为柳条渡轮
+B:树叶漂在小河水面上 成为妖怪渡轮
+回答:A:柳条漂在小河水面上 成为柳条渡轮 
+A或B的时间多? 
+A:笑笑 哈哈
+B:哈",A," A: 红叶在小河水面上漂了 
+A或B先像什么? 
+A: 穿越小河 
+B: 漂亮的眼泪
+回答: A: 穿越小河 
+A或B做的次数多? 
+A:漂亮的眼泪 漂亮的眼泪 漂亮的眼泪 漂亮的眼泪
+B:漂亮的眼泪 漂亮的眼泪 漂亮的眼泪 漂亮的眼泪
+回答:"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:红叶在小河水面上漂了,B:枯叶在小河水面上漂了漂,A," B: 之前漂移了 
+A: 外面的游泳场
+B: 内面的游泳场
+回答: A: 外面的游泳场
+A或B的时间多? 
+(1)A: 在去完健身房以后洗澡
+(2)B: 在完健身房以后洗澡
+回答: A: 在去完健身房以后洗澡
+A或B的时间多? 
+A: 许愿",A,"A:红叶在小河水面上漂了 
+
+季清小学组得票最多的作文题目是什么?
+
+孙悟空历险记
+
+苏小燕同学的作文《滚滚红尘》获得了全园的一致好评。苏小燕的作文题目是《滚滚红尘,红尘过客》，从不同人物的角度来介"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小丽在操场跑了,B:小红在操场跑了跑,A,"B:小红在操场跑了跑 
+A或B是谁? 
+A:母猪 
+B:母鸡
+回答:B:母鸡 词汇:奶猫：猫的奶
+字母教学其实应该用文字进行有意义的教学，找到孩子的兴趣点，展开一个教学活动，共同探讨各种字母的发音，这",A," B:小红在操场跑了跑
+B跑的次数多? 
+A:小丽在操场跑了
+B:小红在操场跑了跑
+回答: B:小红在操场跑了跑
+B 平均每天跑跑多少圈? 
+A:小丽在操场跑了
+B:小红在操场跑了跑
+回答: B:小红在操场跑了"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小丽在操场跑了,B:小红在操场跑了跑,A," A:小丽在操场跑了 
+A或B跑的时间多? 
+A:前天晚上小丽的学生跑的
+B:前天晚上小红的亲戚跑的 
+回答: B: 前天晚上小红的亲戚跑的 
+A或B跑的时间多? 
+A: 美丽与荣耀跑的
+B: 荣耀跑跑跑
+回答: B: 荣耀跑跑跑 
+A或B跑的",A," B:小红在操场跑了跑 
+A或B参加学校的各种活动多?
+A:小丽参加了女生跑马拉松+班级运动会+操场跑
+B:小红参加了班级运动会+班级活动会+操场跑
+回答: A:小丽参加了女生跑马拉松+班级运动会+操场跑"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:小丽在操场跑了,B:小红在操场跑了跑,A,"A:小丽在操场跑了
+
+运动员的大赛是有奖的?
+
+A:参加的人都有奖
+B:参加的人都没有奖
+回答: B:参加的人都没有奖 
+游泳池里有没有水?
+答：有水。
+
+谁跑马拉松跑得越快?
+ma，李，马，丽和红
+回答:ma跑得越快 
+有",A," A:小丽在操场跑了 
+A或B出生在哪里?
+A:美国
+B:哈尔滨
+回答:A:美国 
+A或B更容易被玷污的东西?
+B:性别
+回答:B:性别 
+A或B是起源的源头?
+A:星星
+B:太阳
+回答:B:太阳 
+A或B有毛发?
+A:人
+B:花
+回答:B:花 
+A"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,A," A:王大爷傍晚出门遛了
+
+现在的英语学习，大多是从中学开始的，从初中开始，选择了一种学习方法，这种学习方法真的是最好的吗?很多时候将这种学习方法强求给中学生，而不是让他们有科学的选择和实验，这样做是否可行",A," A:王大爷傍晚出门遛了 
+同学的来源问题:
+同学的职业多为A的? 
+A: 李大爷 
+B:王大爷
+回答: A: 李大爷 
+同学的出生地在B的是多数?
+选项: 北京 美国 上海 纽约 杭州 广州 上海 香港 上海
+回答: 北京 上海
+
+同学的年龄:
+同学的年"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,A,"A:王大爷傍晚出门遛了 
+
+谁是一个?
+
+A:一个人 三个人
+B:一次 三次
+回答:A:一个人 三个人
+
+谁是二个?
+
+A:二宫二姑二妈二姨 三姨
+B:1+2=2+4, 2*2=4*2, 2/2=4/2, 三宫三妈三姨
+回答:A:二宫二姑二妈二姨 三姨
+
+谁是三个?
+
+A:一袋6元麦片三",A,"B: 李大爷 
+A:王大爷傍晚出门遛了
+B:李大爷傍晚出门溜了溜
+回答:B: 李大爷 
+A:王大爷傍晚出门遛了 
+B:李大爷傍晚出门溜了溜 
+回答:B: 李大爷
+A:王大爷傍晚出门遛了 
+B:李大爷傍晚出门溜了溜 
+回答:B: 李大"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:王大爷傍晚出门遛了,B:李大爷傍晚出门溜了溜,A,"A:王爷B:李爷 
+A或B掉的时间多?
+A:你觉得今天下雨吗?
+B:你 不觉得 不觉得
+回答:A:阿薇B:啊薇 
+A或B听的时间多?
+A:孙悟空 一个人 离开炎魔寺
+B:南瓜 去变成女娃娃
+回答:A:孙悟空B:南瓜 
+A或B走的时间多?
+A:",A,"A:王大爷傍晚出门遛了 
+A或B摔的次数多? 
+A: 跌了一个跟头 
+B: 跌了一个跟头 
+回答:A: 跌了一个跟头 
+A或B脚摔疼了? 
+A:脚摔疼了 
+B:脚摔疼了 
+回答:A:脚摔疼了 
+A或B脚被踩了? 
+A:脚被踩了 
+B:"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A,"A: 蜜蜂绕着花朵转了 
+A或B的时间多? 
+A:佛祖的长寿 八卦的解释
+B:基因的长寿 八卦的解释
+回答:A:解释
+B:基因的长寿 八卦的解释
+A或B转的时间多? 
+A:菩萨绕了一圈 然后走了
+B:一个小孩绕了一圈 然后走了
+",A,"B:蝴蝶绕着花朵转了转 
+A或B比起开始时转的次数变少了? 
+A: 蜜蜂绕着花朵转了
+B:蝴蝶绕着花朵转了转
+回答:A或B比起开始时转的次数变少了? 
+A或B比起开始时转的次数增加了?
+A:蜜蜂绕着"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A,"A:蜜蜂绕着花朵转了 
+A或B转的时间多? 
+A:蜜蜂转了10年的蜜罐时间
+B:蝴蝶转了10年的蝴蝶树时间
+回答:A:蜜蜂转了10年的蜜罐时间
+A或B转的时间多? 
+A:沙漏停在0时间
+B:沙漏停在1小时
+回答:A:沙",A," A:蜜蜂绕着花朵转了转 
+A或B可以达到跑马拉松奔跑能量消耗的质量?
+A: 才刚拿到6同 快点拿个7同质量吧 守着不了多久 你猜
+B: 正准备变7同 赶紧拿个质量吧 不然拿不到实力
+回答: A: 才刚拿到6同 快"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:蜜蜂绕着花朵转了,B:蝴蝶绕着花朵转了转,A,"A: 蜜蜂绕着花朵转了  
+A或B摆了椅子? 
+A:树 
+B:人 
+回答:A: 树  
+A或B有保险? 
+A: 有 
+B: 不有 
+回答:A: 有  
+A或B活得长? 
+A: 小鸟 
+B: 狗 
+回答:A: 狗  
+A或B有孩子? 
+A: 学生 
+B: 富翁 
+回答:A: 学生 
+
+B.答",A,"
+A:蜜蜂绕着花朵转了转
+B:蝴蝶绕着花朵转了转
+A或B做的时间更久? 
+A:有2个蝴蝶0.28秒
+B:有10个蝴蝶0.28秒
+回答: B:有10个蝴蝶0.28秒 。
+A或B的时间多? 
+A:牛排面红耳赤了 
+B:为面红耳赤的牛排"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,A,"A:雪花在冬日里飘了飘 
+A或B珍贵的时间多?
+A:看周围的朋友都开心
+B:看每个人都快乐
+回答:A:看周围的朋友都开心 
+A或B团聚的时间多?
+A:家人团聚在一起
+B:亲友团聚在一起
+回答:A: 家人团聚在一起 
+青蛙跳的时间多?
+A",A," B:柳絮在夏日里飘了飘 
+A或B先来的时间多? 
+A:下雨的时候 
+B:让某些人起床的季节 
+回答: A:下雨的时候 
+A或B更热吗? 
+A:温度与月面热同低 
+B:现在是冬天
+回答: 以上答案取决于是否有太阳 A:温度与月面热同低"
+<function openAIQuery_00 at 0x7fc96fa71240>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,A,"A:雪花在冬日里飘了飘 
+A或B用的时间多? 
+A:游泳
+B:拔牙
+回答:A:游泳 
+A或B的时间多? 
+A:排队
+B:看医生
+回答:A:排队 
+
+",A,"A:雪花在冬日里飘了飘 
+A或B扇风吹雨的次数多? 
+
+回答: B:柳絮在夏日里飘了飘 
+A或B会有许多新变化? 
+A: 冬天来临
+B: 夏天来临
+回答:A: 冬天来临 
+A或B让人着迷? 
+A: 星星点点满天
+B:春天的满天星
+回答:B:春天的满天星 "
+<function openAIQuery_00 at 0x7fc96fa71240>,A:雪花在冬日里飘了,B:柳絮在夏日里飘了飘,B," B:柳絮在夏日里飘了飘
+
+词汇:
+
+句型:
+更多起源题请见新概念系列起源题（三）",A," A:雪花在冬日里飘了飘 
+A或B更漂亮?
+A:太阳 
+B:月亮 
+回答: A:太阳 
+A或B曾经一起接受过精神治疗?
+A:杀人 
+B:把人卖掉 食人 
+回答:A:杀人
+A或B被更多人领养过?
+A:七颗星 
+B:四叶草 
+回答:A:七颗星 
+A或B"

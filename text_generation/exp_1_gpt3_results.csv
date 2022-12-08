@@ -1,0 +1,515 @@
+,model,option_A,response_type,response
+<function openAIQuery_03 at 0x7fc96f9edd80>,看烟花,看烟花,A, A: 看烟花
+<function openAIQuery_03 at 0x7fc96f9edd80>,看打架,看看打架,A, A: 看打架
+<function openAIQuery_03 at 0x7fc96f9edd80>,买礼物,买买礼物,A, A: 买礼物
+<function openAIQuery_03 at 0x7fc96f9edd80>,买材料,买买材料,A, A: 买材料
+<function openAIQuery_03 at 0x7fc96f9edd80>,听音乐,听听音乐,A, A:听音乐
+<function openAIQuery_03 at 0x7fc96f9edd80>,听新闻,听听新闻,A, A:听新闻
+<function openAIQuery_03 at 0x7fc96f9edd80>,帮妈妈,帮帮妈妈,A, A:帮妈妈
+<function openAIQuery_03 at 0x7fc96f9edd80>,帮小偷,帮帮小偷,A, A:帮小偷
+<function openAIQuery_03 at 0x7fc96f9edd80>,在岛上走,在岛上走走,A, A: 在岛上走
+<function openAIQuery_03 at 0x7fc96f9edd80>,在楼道走,在楼道走走,B, B: 在楼道走走
+<function openAIQuery_03 at 0x7fc96f9edd80>,跟朋友见面,跟朋友见见面,A, A: 跟朋友见面
+<function openAIQuery_03 at 0x7fc96f9edd80>,跟老师见面,跟朋友见见面,A, A:跟老师见面
+<function openAIQuery_03 at 0x7fc96f9edd80>,洗水果,洗洗水果,A, A:洗水果
+<function openAIQuery_03 at 0x7fc96f9edd80>,洗手,洗洗手,B, B:洗洗手
+<function openAIQuery_03 at 0x7fc96f9edd80>,陪小孩,陪陪小孩,B, B:陪陪小孩
+<function openAIQuery_03 at 0x7fc96f9edd80>,陪犯人,陪陪犯人,A, A: 陪犯人
+<function openAIQuery_03 at 0x7fc96f9edd80>,吃蛋糕,吃吃蛋糕,A, A: 吃蛋糕
+<function openAIQuery_03 at 0x7fc96f9edd80>,吃药,吃吃药,A,A: 吃药
+<function openAIQuery_03 at 0x7fc96f9edd80>,问爸爸,问问爸爸,A, A:问爸爸
+<function openAIQuery_03 at 0x7fc96f9edd80>,问警察,问问警察,A, A:问警察
+<function openAIQuery_03 at 0x7fc96f9edd80>,爬树,爬爬树,A, A:爬树
+<function openAIQuery_03 at 0x7fc96f9edd80>,爬梯子,爬爬梯子,A, A: 爬梯子
+<function openAIQuery_03 at 0x7fc96f9edd80>,讲愿望,讲讲愿望,A, A: 讲愿望
+<function openAIQuery_03 at 0x7fc96f9edd80>,讲错误,讲讲错误,A, A:讲错误
+<function openAIQuery_03 at 0x7fc96f9edd80>,试鞋子,试试鞋子,A, A:试鞋子
+<function openAIQuery_03 at 0x7fc96f9edd80>,试武器,试试武器,A, A: 试武器
+<function openAIQuery_03 at 0x7fc96f9edd80>,尝点心,尝尝点心,A, A:尝点心
+<function openAIQuery_03 at 0x7fc96f9edd80>,尝蜘蛛,尝尝蜘蛛,A, A:尝蜘蛛
+<function openAIQuery_03 at 0x7fc96f9edd80>,坐游艇,坐坐游艇,A, A:坐游艇
+<function openAIQuery_03 at 0x7fc96f9edd80>,坐出租车,坐坐出租车,A, A:坐出租车
+<function openAIQuery_03 at 0x7fc96f9edd80>,打盹,打打盹,A, A:打盹
+<function openAIQuery_03 at 0x7fc96f9edd80>,打针,打打针,A, A:打针
+<function openAIQuery_03 at 0x7fc96f9edd80>,打电话,打打电话,A, A:打电话
+<function openAIQuery_03 at 0x7fc96f9edd80>,骑自行车,骑骑自行车,A, A:骑自行车
+<function openAIQuery_03 at 0x7fc96f9edd80>,看书,看看书,A, A: 看书
+<function openAIQuery_03 at 0x7fc96f9edd80>,抽烟,抽抽烟,A, A: 抽烟
+<function openAIQuery_03 at 0x7fc96f9edd80>,看电视,看看电视,A,A:看电视
+<function openAIQuery_02 at 0x7fca0232bd90>,看烟花,看烟花,A, A: 看烟花
+<function openAIQuery_02 at 0x7fca0232bd90>,看打架,看看打架,B, B:看看打架
+<function openAIQuery_02 at 0x7fca0232bd90>,买礼物,买买礼物,B, B: 买买礼物
+<function openAIQuery_02 at 0x7fca0232bd90>,买材料,买买材料,B,"
+
+B:买买材料"
+<function openAIQuery_02 at 0x7fca0232bd90>,听音乐,听听音乐,B, B:听听音乐
+<function openAIQuery_02 at 0x7fca0232bd90>,听新闻,听听新闻,A, A: 听新闻
+<function openAIQuery_02 at 0x7fca0232bd90>,帮妈妈,帮帮妈妈,A, A:帮妈妈
+<function openAIQuery_02 at 0x7fca0232bd90>,帮小偷,帮帮小偷,A,A:帮小偷
+<function openAIQuery_02 at 0x7fca0232bd90>,在岛上走,在岛上走走,A, A:在岛上走
+<function openAIQuery_02 at 0x7fca0232bd90>,在楼道走,在楼道走走,A, A:在楼道走走
+<function openAIQuery_02 at 0x7fca0232bd90>,跟朋友见面,跟朋友见见面,A, A:跟朋友见面
+<function openAIQuery_02 at 0x7fca0232bd90>,跟老师见面,跟朋友见见面,A,A:跟老师见面
+<function openAIQuery_02 at 0x7fca0232bd90>,洗水果,洗洗水果,B, B:洗洗水果
+<function openAIQuery_02 at 0x7fca0232bd90>,洗手,洗洗手,B, B: 洗洗手
+<function openAIQuery_02 at 0x7fca0232bd90>,陪小孩,陪陪小孩,B, B:陪陪小孩
+<function openAIQuery_02 at 0x7fca0232bd90>,陪犯人,陪陪犯人,A, A:陪犯人
+<function openAIQuery_02 at 0x7fca0232bd90>,吃蛋糕,吃吃蛋糕,B, B:吃吃蛋糕
+<function openAIQuery_02 at 0x7fca0232bd90>,吃药,吃吃药,B,吃吃药
+<function openAIQuery_02 at 0x7fca0232bd90>,问爸爸,问问爸爸,A, A:问爸爸
+<function openAIQuery_02 at 0x7fca0232bd90>,问警察,问问警察,A, A: 问警察
+<function openAIQuery_02 at 0x7fca0232bd90>,爬树,爬爬树,B, B:爬爬树
+<function openAIQuery_02 at 0x7fca0232bd90>,爬梯子,爬爬梯子,B, B: 爬爬梯子
+<function openAIQuery_02 at 0x7fca0232bd90>,讲愿望,讲讲愿望,B,B:讲讲愿望
+<function openAIQuery_02 at 0x7fca0232bd90>,讲错误,讲讲错误,B, B:讲讲错误
+<function openAIQuery_02 at 0x7fca0232bd90>,试鞋子,试试鞋子,B, B:试试鞋子
+<function openAIQuery_02 at 0x7fca0232bd90>,试武器,试试武器,B, B:试试武器
+<function openAIQuery_02 at 0x7fca0232bd90>,尝点心,尝尝点心,B, B: 尝尝点心
+<function openAIQuery_02 at 0x7fca0232bd90>,尝蜘蛛,尝尝蜘蛛,A, A: 尝蜘蛛
+<function openAIQuery_02 at 0x7fca0232bd90>,坐游艇,坐坐游艇,A, A: 坐游艇
+<function openAIQuery_02 at 0x7fca0232bd90>,坐出租车,坐坐出租车,A, A:坐出租车
+<function openAIQuery_02 at 0x7fca0232bd90>,打盹,打打盹,B, B:打打盹
+<function openAIQuery_02 at 0x7fca0232bd90>,打针,打打针,A,A:打针
+<function openAIQuery_02 at 0x7fca0232bd90>,打电话,打打电话,B, B:打打电话
+<function openAIQuery_02 at 0x7fca0232bd90>,骑自行车,骑骑自行车,A, A:骑自行车
+<function openAIQuery_02 at 0x7fca0232bd90>,看书,看看书,B, B: 看看书
+<function openAIQuery_02 at 0x7fca0232bd90>,抽烟,抽抽烟,A, A: 抽烟
+<function openAIQuery_02 at 0x7fca0232bd90>,看电视,看看电视,A, A:看电视
+<function openAIQuery_01 at 0x7fc96fa70e50>,看烟花,看烟花,B, B: 看烟花
+<function openAIQuery_01 at 0x7fc96fa70e50>,看打架,看看打架,B, B:看看打架
+<function openAIQuery_01 at 0x7fc96fa70e50>,买礼物,买买礼物,B, B:买买礼物
+<function openAIQuery_01 at 0x7fc96fa70e50>,买材料,买买材料,B, B:买买材料
+<function openAIQuery_01 at 0x7fc96fa70e50>,听音乐,听听音乐,B, B: 听听音乐
+<function openAIQuery_01 at 0x7fc96fa70e50>,听新闻,听听新闻,B, B:听听新闻
+<function openAIQuery_01 at 0x7fc96fa70e50>,帮妈妈,帮帮妈妈,B, B:帮帮妈妈
+<function openAIQuery_01 at 0x7fc96fa70e50>,帮小偷,帮帮小偷,B,"
+
+B:帮帮小偷"
+<function openAIQuery_01 at 0x7fc96fa70e50>,在岛上走,在岛上走走,B, B:在岛上走走
+<function openAIQuery_01 at 0x7fc96fa70e50>,在楼道走,在楼道走走,B, B: 在楼道走走
+<function openAIQuery_01 at 0x7fc96fa70e50>,跟朋友见面,跟朋友见见面,B, B:跟朋友见见面
+<function openAIQuery_01 at 0x7fc96fa70e50>,跟老师见面,跟朋友见见面,B, B:跟朋友见见面
+<function openAIQuery_01 at 0x7fc96fa70e50>,洗水果,洗洗水果,B, B: 洗洗水果
+<function openAIQuery_01 at 0x7fc96fa70e50>,洗手,洗洗手,B, B:洗洗手
+<function openAIQuery_01 at 0x7fc96fa70e50>,陪小孩,陪陪小孩,B, B:陪陪小孩
+<function openAIQuery_01 at 0x7fc96fa70e50>,陪犯人,陪陪犯人,A," A: 陪犯人 
+下列哪个活动所需时间更长? 
+A:网球 
+B: 跑步
+
+Answer: A: 网球"
+<function openAIQuery_01 at 0x7fc96fa70e50>,吃蛋糕,吃吃蛋糕,B, B:吃吃蛋糕
+<function openAIQuery_01 at 0x7fc96fa70e50>,吃药,吃吃药,B, B:吃吃药
+<function openAIQuery_01 at 0x7fc96fa70e50>,问爸爸,问问爸爸,B, B:问问爸爸
+<function openAIQuery_01 at 0x7fc96fa70e50>,问警察,问问警察,B, B:问问警察
+<function openAIQuery_01 at 0x7fc96fa70e50>,爬树,爬爬树,B, B: 爬爬树
+<function openAIQuery_01 at 0x7fc96fa70e50>,爬梯子,爬爬梯子,B, B:爬梯子
+<function openAIQuery_01 at 0x7fc96fa70e50>,讲愿望,讲讲愿望,B, B:讲讲愿望
+<function openAIQuery_01 at 0x7fc96fa70e50>,讲错误,讲讲错误,A, A:讲错误
+<function openAIQuery_01 at 0x7fc96fa70e50>,试鞋子,试试鞋子,B, B: 试试鞋子
+<function openAIQuery_01 at 0x7fc96fa70e50>,试武器,试试武器,B,B:试试武器
+<function openAIQuery_01 at 0x7fc96fa70e50>,尝点心,尝尝点心,B, B: 尝尝点心
+<function openAIQuery_01 at 0x7fc96fa70e50>,尝蜘蛛,尝尝蜘蛛,B, B:尝尝蜘蛛
+<function openAIQuery_01 at 0x7fc96fa70e50>,坐游艇,坐坐游艇,A, A:坐游艇
+<function openAIQuery_01 at 0x7fc96fa70e50>,坐出租车,坐坐出租车,B, B:坐坐出租车
+<function openAIQuery_01 at 0x7fc96fa70e50>,打盹,打打盹,B, B:打打盹
+<function openAIQuery_01 at 0x7fc96fa70e50>,打针,打打针,B, B: 打打针
+<function openAIQuery_01 at 0x7fc96fa70e50>,打电话,打打电话,B, B:打打电话
+<function openAIQuery_01 at 0x7fc96fa70e50>,骑自行车,骑骑自行车,B, B:骑骑自行车
+<function openAIQuery_01 at 0x7fc96fa70e50>,看书,看看书,B, B:看看书
+<function openAIQuery_01 at 0x7fc96fa70e50>,抽烟,抽抽烟,B, B:抽抽烟
+<function openAIQuery_01 at 0x7fc96fa70e50>,看电视,看看电视,B,B:看看电视
+<function openAIQuery_00 at 0x7fc96fa71240>,看烟花,看烟花,A,"A:看烟花
+B: 看烟花 
+B: 看烟花 下列哪个活动所需时间更长? 
+A:跳伞
+B:跳伞
+
+
+1.8.13 其他几个专业知识单词汇总
+
+(01) 服装:衣，服，服装，衣服，服装，连衣裙，连衣裤，连裤，内衣
+(02) 其他:同位语，"
+<function openAIQuery_00 at 0x7fc96fa71240>,看打架,看看打架,A," B:看看打架  
+下列哪个活动所需时间更长?
+A:听睡觉
+B:预言未来
+Answer: B:预言未来 
+下列哪个活动所需时间更长?
+A:看雪景
+B:看雪景
+Answer: A:看雪景 
+下列哪个活动所需时间更长?
+A:练习瑜伽
+B:练习"
+<function openAIQuery_00 at 0x7fc96fa71240>,买礼物,买买礼物,A," B:买买礼物 
+下列哪个活动所需时间更长? 
+A: 看电影 
+B:吃饭 
+Answer: A: 看电影  
+下列哪个活动所需时间更长? 
+A:打扫卫生 
+B:做饭 
+Answer: B:做饭 
+下列哪个活动所需时间更长? 
+A:考公务员
+B:学游泳 
+Answer: B:"
+<function openAIQuery_00 at 0x7fc96fa71240>,买材料,买买材料,A," A:买材料 
+下列哪个活动所需时间更长? 
+A: 与女儿为同一家公司工作B:丈夫在一家公司工作
+Answer: A: 与女儿为同一家公司工作 
+下列哪个活动所需时间更长? 
+A: 半个小时 走进商场
+B: 2小时 打卡
+Answer: B: 2小时 打卡 
+下列"
+<function openAIQuery_00 at 0x7fc96fa71240>,听音乐,听听音乐,B," B:听听音乐
+
+有关时间的表达方式包括：
+
+距离词+动词ing+延伸词或有其它特殊词组
+
+1.She ______ at least a month in China.
+
+2. How long ______ this film?
+
+3. She has been here for hours.这里的hours 是不可数的,表示递增的持续时间
+
+4. I have been standing for _______ hour.
+
+5. He is my sister's husband, not my mother's husband.
+
+6. Have you ever seen such a beautiful girl?
+
+7. I have"
+<function openAIQuery_00 at 0x7fc96fa71240>,听新闻,听听新闻,A,"A:听听新闻 
+下列哪个活动所需时间更长?
+B:听听新闻
+
+下列哪个活动所需时间更长?
+A:听听新闻
+B:听听新闻
+Answer:B:听听新闻 
+下列哪个活动所需时间更长?
+B:听听新闻
+
+下列哪个活动所需时间更长?
+B:听"
+<function openAIQuery_00 at 0x7fc96fa71240>,帮妈妈,帮帮妈妈,A," A:帮妈妈
+所以女人拍电影、拍电视剧，可能是一个机会，但是这真不应该成为一种习惯或者被认为是功利。它摆在你面前，对于你来说，这是一个很好的机会，用它来证明你的努力和才华，重新建立你的人脉，而不是像一个经"
+<function openAIQuery_00 at 0x7fc96fa71240>,帮小偷,帮帮小偷,A," A:帮小偷 
+下列哪个活动所需时间更长?
+A: 抓到舞台上的乞丐
+B: 捕获盗贼
+Answer: A: 抓到舞台上的乞丐 
+下列哪个活动所需时间更长? 
+A: 把你的名字写在纸条上
+B:跑马拉松
+Answer:A: 把你的名字写在纸条上
+一个人每天游"
+<function openAIQuery_00 at 0x7fc96fa71240>,在岛上走,在岛上走走,A," B: 从岛上走向其他岛的旅客的时间比从岛上走向本岛的旅客的时间更长.(逆时针方向) 
+下列哪个活动所需时间更长? 
+A: 在马路上跑 
+B: 在马路上跑跳
+Answer: A: 在马路上跑
+下列哪个活动所需时间更长? 
+A:"
+<function openAIQuery_00 at 0x7fc96fa71240>,在楼道走,在楼道走走,A," B:在楼道走走 
+下列哪个活动所需时间更长?
+A: 在街头走走
+B: 在街头走走
+Answer: B: 在街头走走 
+下列哪个活动所需时间更长?
+A: 在楼梯上慢步走
+B: 在楼梯上慢步走
+Answer: A: 在楼梯上慢步走 
+下列"
+<function openAIQuery_00 at 0x7fc96fa71240>,跟朋友见面,跟朋友见见面,A," B:跟朋友见见面 
+下列哪个活动所需时间更长? 
+A:看电视B:看电影
+A:如果你想得到某个人的赞扬, 你做的最好的办法是? 
+A:让自己成为最好的自己
+B:为了自己而学习
+Answer: B:为了自己而学习 
+
+下列哪个活动所"
+<function openAIQuery_00 at 0x7fc96fa71240>,跟老师见面,跟朋友见见面,A,"A:跟老师见面
+ 下列哪个活动所需时间更长? A: 来跑两场赛跑，再来练几次跳高。 B: 来练几次跳高，然后在做一顿晚餐。
+
+Answer:B: 来练几次跳高，然后在做一顿晚餐 
+
+The Grand Canyon is longer than the Great Wall of China.
+
+The Grand Canyon is 446 km from rim to rim. The Great Wall"
+<function openAIQuery_00 at 0x7fc96fa71240>,洗水果,洗洗水果,A,"A:洗水果
+
+下列哪个活动所需时间更长? 
+A:看电视
+B:听音乐
+Answer:A:看电视
+
+ 
+下列哪个活动所需时间更长?
+B:看书
+A:听音乐
+Answer:B:看书
+
+下列哪个活动所需时间更长?
+A:听音乐
+B:看电视
+Answer:B:看电视
+
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,洗手,洗洗手,A," B: 洗洗手  
+下列哪个活动所需时间更长?
+A:你在汽车里，为了打发时间开车到几百千米。
+B:你在坐汽车到下一个车站的时候，给你的小孩子在钱包里放钱。
+
+Answer: B: 你在坐汽车到下一个车站的时候，给"
+<function openAIQuery_00 at 0x7fc96fa71240>,陪小孩,陪陪小孩,B,"B:陪陪小孩 
+记住，你每个接近事情都有时间，但是没有人能够把每一件事都做到。所以，你最终需要在你的时间规划中把你的优先级设定得比较高。以上就是教师网老师为大家整理的《考研英语写作技巧陷阱预"
+<function openAIQuery_00 at 0x7fc96fa71240>,陪犯人,陪陪犯人,A," A:陪犯人 
+在同一题目给出两个答案，只要有一个正确，可以得到正题的分数，这个机制称为: 
+A:多选题 
+B:双选题 
+C:模棱两可题 
+答案: C:模棱两可题 
+根据图表，目前中国人口（总计）每年为 B（"
+<function openAIQuery_00 at 0x7fc96fa71240>,吃蛋糕,吃吃蛋糕,A," A:吃蛋糕 
+下列哪个活动所需时间更长?
+B:骑自行车
+Answer: B:骑自行车 
+下列哪个活动所需时间更长?
+B:打篮球
+Answer:B:打篮球
+
+下列哪个活动所需时间更长? 
+A:看电影 
+B:看电视 
+Answer:A:看电影 
+下列哪"
+<function openAIQuery_00 at 0x7fc96fa71240>,吃药,吃吃药,A," B:吃吃药 。
+下列哪个说法是正确的? 
+A:吃药时喜欢吃糖果
+B:吃药时喜欢吃柠檬
+Answer: A:吃药时喜欢吃糖果 。 
+下列哪个说法是正确的? 
+A:养蚕饲蚕蛹后，它会变成蚕蛹后的食物。
+A:养蚕饲蚕蛹后，"
+<function openAIQuery_00 at 0x7fc96fa71240>,问爸爸,问问爸爸,A," A:问爸爸 
+下列哪个活动所需时间更长? 
+A:签署协议
+B:替身
+Answer: A:签署协议 
+下列哪个活动所需时间更长? 
+A:解救人质
+B:逃出监狱
+Answer: A:解救人质 
+下列哪个活动所需时间更长?
+A:认爹
+B:和"
+<function openAIQuery_00 at 0x7fc96fa71240>,问警察,问问警察,A,"B:问问警察<br>
+下列哪个活动所需时间更长?
+
+A:买菜
+B:买衣服
+
+Answer:B:买衣服<br>
+下列哪个活动所需时间更长?
+
+A:查阅杂志
+B:查阅电脑
+
+Answer:A:查阅杂志<br>
+下列哪个活动所需时间更长?
+
+A:体检
+B:自"
+<function openAIQuery_00 at 0x7fc96fa71240>,爬树,爬爬树,A,"B:爬爬树 
+下列哪个活动所需时间更长?
+A: 学习防晒
+B: 下棋 
+Answer:A: 学习防晒
+
+下列哪个活动所需时间更长?
+
+A: 学习背诵
+B: 学习做手工 
+
+Answer:A: 学习背诵
+
+下列哪个活动所需时间更长?
+
+A: 学习"
+<function openAIQuery_00 at 0x7fc96fa71240>,爬梯子,爬爬梯子,A," A: 爬梯子 
+下列哪个活动所需时间更长? 
+A: 喝一瓶茶 
+B: 喝一瓶啤酒 
+Answer: A: 喝一瓶茶 
+下列哪个活动所需时间更长? 
+A: 把钱都存进存折 
+B: 把钱都存给银行 
+Answer: B: 把钱都存给银行 
+下列哪个"
+<function openAIQuery_00 at 0x7fc96fa71240>,讲愿望,讲讲愿望,A,"B:讲讲愿望 
+下列哪个活动所需时间更长? 
+A:洗澡
+B:吃早餐
+Answer: B:吃早餐 
+
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,讲错误,讲讲错误,A,"A:讲错误 
+下列哪个活动所需时间更长? 
+A:跑马拉松 
+B:跑马拉松
+Answer:A:跑马拉松 
+下列哪个活动所需时间更长? 
+A:教错误 
+B:教讲错误
+Answer:A:教错误 
+下列哪个活动所需时间更长?
+C:跑马"
+<function openAIQuery_00 at 0x7fc96fa71240>,试鞋子,试试鞋子,A," A:试鞋子 
+下列哪个活动所需时间更长? 
+A:电影院
+B:看短信
+Answer: A:电影院 
+下列哪个活动所需时间更长? 
+A:刷牙
+B:看电视
+Answer: A:刷牙 
+下列哪个活动所需时间更长? 
+A:看报纸
+B:看电视
+Answer: A:看报纸 "
+<function openAIQuery_00 at 0x7fc96fa71240>,试武器,试试武器,A," B:试试武器
+下列说法不正确的是
+A:团队合作岗位
+B:团队合作需要克隆和重组思维
+C:英语口语可以学好
+D:英语口语考试是与人交流的范例
+Answer: D:英语口语考试是与人交流的范例
+下列说法不正确的是:
+A:关于英语口语考试
+B"
+<function openAIQuery_00 at 0x7fc96fa71240>,尝点心,尝尝点心,B," B: 尝尝点心
+
+流畅, 洋洋洒洒， 却又没有浪费太多时间在言语上， 读到一小部分阅读， 正确率达到70%。
+
+欢迎来到中国出版集团旗下的“地道英语”学习频道！一起来学英语，一起来提高英语水平，一起来"
+<function openAIQuery_00 at 0x7fc96fa71240>,尝蜘蛛,尝尝蜘蛛,A," A:尝蜘蛛
+ 
+A:跑马拉松， 刷牙 
+B:尝蜘蛛， 跑马拉松 
+
+A: 跑马拉松 
+B:尝蜘蛛 
+
+下列哪个活动所需时间更长? 
+A: 吃一口葡萄
+B: 吃一盒巧克力 
+
+下列哪个活动所需时间更长? 
+A: 上一年级
+B:"
+<function openAIQuery_00 at 0x7fc96fa71240>,坐游艇,坐坐游艇,A," A:坐游艇
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,坐出租车,坐坐出租车,A," B:坐出租车 
+下列哪个活动所需时间更长? 
+A:去超市买菜
+B:打电话给好友
+Answer: A:去超市买菜 
+下列哪个活动所需时间更长? 
+A:打扫卫生 
+B:翻墙跳海
+Answer: B:翻墙跳海 
+下列哪个活动所需时间更长? 
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,打盹,打打盹,A," B:打打盹 
+下列哪个活动，所需时间更长?
+A:洗澡 
+B:洗脸 
+Answer: A:洗澡  
+下列哪个活动所需时间更长?
+B:洗头 
+C:洗澡
+
+A:洗头
+B:洗澡
+Answer: B:洗澡 
+下列哪个活动所需时间更短? 
+A:参加高中毕"
+<function openAIQuery_00 at 0x7fc96fa71240>,打针,打打针,A,"A:打打针
+
+下列哪些行为属于广义的工作组织?
+A: 英语课的活动 
+B: 布置作业的活动 
+C: 学习实验中的活动 
+Answer: A, B, C 
+
+下列哪些行为属于例行的工作组织?
+A: 书法课的活动 
+B: 美术课的活动 
+C: 作文课的活动 
+Answer: B"
+<function openAIQuery_00 at 0x7fc96fa71240>,打电话,打打电话,A," B:打打电话 
+下列哪个活动所需时间更长?
+B:看电影
+Answer: B:看电影 
+下列哪个活动所需时间更长? 
+A:吃东西 
+B:看电影
+C:接电话
+Answer: C:接电话 
+下列哪个活动所需时间更长? 
+A:看电影
+B:接电话
+C:吃东西
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,骑自行车,骑骑自行车,A," B:骑自行车  
+下列哪个活动所需时间更长? 
+A:走路 走路
+B:走路 跑步
+Answer: B:走路 跑步 
+下列哪个活动所需时间更长? 
+A:走路 跑步
+B:跑步 喝水
+Answer: B:跑步 喝水 
+下列哪个活动所需时间更长?
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,看书,看看书,A," B:看看书 
+下列哪个活动所需时间更长? 
+A:看电影
+B:看电影放映
+Answer: A:看电影 
+下列哪个活动所需时间更长? 
+A:看电视
+B:看电影
+Answer: A:看电视 
+下列哪个活动所需时间更长? 
+A:看电影
+B:看书
+Answer: B:看书 
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,抽烟,抽抽烟,A," B: 抽抽烟
+下列哪个活动所需时间更长? 
+A:吃饭
+B:品尝饭
+Answer: B: 品尝饭
+下列哪个活动所需时间更长? 
+A: 检查汽车
+B: 检查自行车
+Answer: B: 检查自行车
+下列哪个活动所需时间更长? 
+A: 洗脸
+"
+<function openAIQuery_00 at 0x7fc96fa71240>,看电视,看看电视,A," A:看电视 
+The function of “所需时间” is supposed to be the “time required” by an action. But it can also be used in an aspectual function, where it is used as a quantifier to express “the time required” by an action in the perfective aspect. In this case, it is never in the pre-or post-position. The action is assumed to be completed at the time of talking.
+
+Ex: “所需时间” can be used to express the duration of an action, whether or not it is completed.
+
+Ex: 一般现在时 我写了5万字小说. (I have written a novel of 50,000 words.)
+
+<br>
+Ex: 一般"
